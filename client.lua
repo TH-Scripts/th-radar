@@ -194,5 +194,4 @@ end
 
 
 -- keymapping
-RegisterKeyMapping('radar', Config.RadarDesc, 'keyboard', Config.RadarHotkey)
 RegisterKeyMapping('tooglefroze', Config.FreezeDesc, 'keyboard', Config.FreezeHotkey)
